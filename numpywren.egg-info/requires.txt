@@ -1,8 +1,0 @@
-Click
-PyYAML
-enum34
-flaky
-glob2
-watchtower
-tblib
-lithops
