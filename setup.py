@@ -23,7 +23,7 @@ setup(
     install_requires=[
         'Click', 'PyYAML',
         'enum34', 'flaky', 'glob2',
-        'watchtower', 'tblib', 'pywren' # it's nuts that we need both botos
+        'watchtower', 'tblib', 'lithops'
     ],
     entry_points={
         'console_scripts' : ['numpywren=numpywren.scripts.cli:main']

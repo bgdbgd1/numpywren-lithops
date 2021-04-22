@@ -5,4 +5,4 @@ flaky
 glob2
 watchtower
 tblib
-pywren
+lithops
